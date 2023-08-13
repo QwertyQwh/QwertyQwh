@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Weihang Qin, currently working as a game developer at Kingnet.co.
-- 📫 Know more about me at www.qwertyqwh.com
+- 📫 See www.qwertyqwh.com.
 
 <!---
 QwertyQwh/QwertyQwh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

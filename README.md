@@ -1,4 +1,4 @@
-- 📫 See www.qwertyqwh.com.
+- 📫 See www.qwertyqwh.com/#/home.
 
 <!---
 QwertyQwh/QwertyQwh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
